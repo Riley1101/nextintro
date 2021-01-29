@@ -1,0 +1,29 @@
+.admin{
+    width: 100%;
+    height: 300vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: lightgray;
+}
+.admin_container{
+    width: 60%;
+    height: 100%;
+    background-color: #fff;
+}
+
+.video_input{
+    width: 80%;
+    height: 400px;
+     margin: 80px auto;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+    background-color: lightslategray;
+}
+.video_icon{
+  
+    background: url('https://api.iconify.design/dashicons:video-alt3.svg?color=%23fff&width=200&height=200') no-repeat center center;
+    content: url('https://api.iconify.design/dashicons:video-alt3.svg?color=%23fff&width=200&height=200');
+vertical-align: -0.125em;}
+
